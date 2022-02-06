@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mjoosse84
-- 👀 I’m interested in coding discord bots in Javascript
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in coding discord bots in Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on discord
 - 📫 How to reach me u/seerah84 at Reddit
 
